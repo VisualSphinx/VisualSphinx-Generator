@@ -2,6 +2,8 @@
 
 This is the official repository for paper "[VisualSphinx: Large-Scale Synthetic Vision Logic Puzzles for RL]". 
 
+**This repo is for paper review. Please refer to [VisualSphinx/VisualSphinx](https://github.com/VisualSphinx/VisualSphinx) for the latest update!**
+
 ## Installation
 
 **Build environment**
